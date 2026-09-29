@@ -1,0 +1,6 @@
+{
+  "name": "Miya Rejimi",
+  "description": "Kunlik intizom, chuqur diqqat va kognitiv salomatlik uchun avtomatlashtirilgan shaxsiy rejim boshqaruvchisi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
